@@ -1,0 +1,2 @@
+Can be downloaded from:
+https://github.com/myleott/mnist_png

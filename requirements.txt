@@ -1,0 +1,11 @@
+h5py==2.9.0
+imageio==2.5.0
+imutils==0.5.3
+matlabengineforpython===R2018a
+matplotlib==3.0.3
+numpy==1.15.2
+Pillow==5.2.0
+torch==1.0.0
+torchfile==0.1.0
+torchsummary==1.5.1
+torchvision==0.2.2
