@@ -1,6 +1,6 @@
 # A Meta-Bayesian Model of Intential Visual Search
 
-![Image](Figure2.png)
+![Image](figures/Figure2.png)
 
 ## Requirements
 
