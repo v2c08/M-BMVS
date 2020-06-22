@@ -1,4 +1,4 @@
-# A Meta-Bayesian Model of Intential Visual Search
+# A Meta-Bayesian Model of Intentional Visual Search
 
 ![Image](figures/Figure2.png)
 
